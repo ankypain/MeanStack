@@ -1,0 +1,32 @@
+.note
+{
+    text-align: center;
+    height: 80px;
+    background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+    color: #fff;
+    font-weight: bold;
+    line-height: 80px;
+}
+.form-content
+{
+    padding: 5%;
+    border: 1px solid #ced4da;
+    margin-bottom: 2%;
+}
+.form-control{
+    border-radius:1.5rem;
+}
+.btnSubmit
+{
+    border:none;
+    border-radius:1.5rem;
+    padding: 1%;
+    width: 20%;
+    cursor: pointer;
+    background: #fa0c03;
+    color: #fff;
+}
+body{
+    background-image: url('https://stadiumastro-kentico.s3.amazonaws.com/stadiumastro/media/perform-article/2019/jun/2/liverpool-cropped_48of2x0105zh13x6uszwd4pws.jpg');
+    
+}

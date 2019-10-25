@@ -1,0 +1,15 @@
+.toolbar {
+    height: 60px;
+    margin: -8px;
+    display: flex;
+    align-items: center;
+    background-color: #ec0e0e;
+    color: #141414;
+    font-weight: 600;
+  }
+.spacer {
+    flex: 1;
+  }
+  .navbar-brand{
+    color: #f44336;
+  }
